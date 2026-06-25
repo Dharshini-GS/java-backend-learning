@@ -20,16 +20,16 @@ Develop a simple Library Book Manager using Java OOP concepts.
 - Methods
 
 ## Files
-1. Book.java
-2. Member.java
-3. LibraryManager.java
+1. Book.java  
+2. Member.java  
+3. LibraryManager.java  
 
 ## Sample Books
-101 - Java Basics
-102 - Python Programming
-103 - DBMS
-104 - Data Structures
-105 - Operating Systems
+101 - Java Basics  
+102 - Python Programming  
+103 - DBMS  
+104 - Data Structures  
+105 - Operating Systems  
 
 ## Sample Members
 1 - Dharshini
